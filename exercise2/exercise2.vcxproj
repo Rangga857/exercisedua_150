@@ -129,6 +129,11 @@
   <ItemGroup>
     <ClCompile Include="exercise2.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Buku.h" />
+    <ClInclude Include="penerbit.h" />
+    <ClInclude Include="pengarang.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

@@ -25,7 +25,6 @@ public :
 	vector<class Pengarang*> getPengarang() {
 		return pengarang;
 	}
-	void cetakpenerbit();
 };
 
 #endif

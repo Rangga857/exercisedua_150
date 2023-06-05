@@ -27,5 +27,6 @@ public :
 	}
 	void cetakpenerbit();
 };
-void penerbit:: cetak
+
 #endif
+
